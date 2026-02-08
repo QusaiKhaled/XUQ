@@ -21,7 +21,7 @@ Energy consumption, climate, and wastewater characteristics of Melbourne eastern
 ## Repository Structure
 
 ```
-it2-anfis-leak-detection/
+it2-anfis/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
