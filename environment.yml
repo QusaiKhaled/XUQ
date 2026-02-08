@@ -1,0 +1,16 @@
+name: it2-anfis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pip:
+    - torch
+    - jupyter
+    - ipykernel
+    - pytest
